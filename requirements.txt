@@ -4,6 +4,7 @@ ctransformers
 pypdf
 bitsandbytes
 accelerate
+Chromadb
 transformers
 sentence_transformers
 streamlit
