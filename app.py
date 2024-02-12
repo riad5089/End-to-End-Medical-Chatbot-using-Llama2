@@ -75,3 +75,4 @@ def display_chat_history():
 initialize_session_state()
 # Display chat history
 display_chat_history()
+
