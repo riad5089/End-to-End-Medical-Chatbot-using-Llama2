@@ -32,6 +32,8 @@ MANIFEST
 *.manifest
 *.spec
 
+mchatbot/
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -123,7 +125,7 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/
+o/
 ENV/
 env.bak/
 venv.bak/
