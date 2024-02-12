@@ -5,6 +5,7 @@ pypdf
 bitsandbytes
 accelerate
 Chromadb
+pysqlite3-binary
 transformers
 gunicorn
 sentence_transformers
