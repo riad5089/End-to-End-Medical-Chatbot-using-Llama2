@@ -4,7 +4,7 @@ ctransformers
 pypdf
 bitsandbytes
 accelerate
-Chromadb
+Chromadb==0.3.29
 pysqlite3-binary
 transformers
 gunicorn
