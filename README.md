@@ -8,7 +8,7 @@ Clone the repository
 Project repo: https://github.com/riad5089/End-to-End-Medical-Chatbot-using-Llama2.git
 ```
 
-### STEP 01- Create a conda environment after opening the repository
+### Create a conda environment after opening the repository
 
 ```bash
 python -m venv env
