@@ -11,11 +11,11 @@ Project repo: https://github.com/riad5089/End-to-End-Medical-Chatbot-using-Llama
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-python -m venv mchatbot
+python -m venv env
 ```
 
 ```bash
-mchatbot\Scripts\activate
+env\Scripts\activate
 ```
 
 ```bash
