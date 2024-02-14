@@ -21,3 +21,8 @@ env\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+### Project Demo
+
+https://github.com/riad5089/End-to-End-Medical-Chatbot-using-Llama2/assets/93583569/914bac0b-2dd3-4a1c-a8d3-79f2531b6094
+
